@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystian-adolpho-hudson-4b23741ba/)](https://www.linkedin.com/in/chrystian-adolpho-hudson-4b23741ba/)
+<a href="https://linkedin.com/in/chrystian-adolpho-hudson-4b23741ba" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chrystian-adolpho-hudson-4b23741ba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
