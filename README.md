@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Chrystian Adolpho Hudson</h1>
 <h3 align="center">Adorador de um bom café, fã de Warcraft e aspirante a desenvolvedor back-end...</h3>
 
-- 🌱 Atualmente estudando **Git, JQuery, Ajax, PHP/OOP/PDO e MySQL**
+- 🌱 Atualmente estudando **Git, JavaScript/NODE.JS e MySQL**
 
 - 📫 Contato **chrystianhudson05@gmail.com**
 
