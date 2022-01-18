@@ -6,7 +6,7 @@
 - 📫 Contato **chrystianhudson05@gmail.com**
 
 <h3 align="left">Minhas redes:</h3>
-<a href="https://www.codewars.com/users/chrystian4dolpho/stats"><img src="https://www.codewars.com/users/chrystian4dolpho/badges/micro"></a>
+<a href="https://www.codewars.com/users/chrystian4dolpho/stats"><img src="https://www.codewars.com/users/chrystian4dolpho/badges/small"></a>
 <p align="left">
 <a href="https://linkedin.com/in/chrystian-adolpho-hudson-4b23741ba" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chrystian-adolpho-hudson-4b23741ba" height="30" width="100" /></a>
 </p>
